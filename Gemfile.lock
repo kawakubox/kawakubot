@@ -44,7 +44,7 @@ GEM
       faraday
       faraday_middleware
       ruboty
-    ruboty-issue_checker (0.2.0)
+    ruboty-issue_checker (0.2.1)
       ruboty
     ruboty-redis (0.0.6)
       redis
