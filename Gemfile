@@ -8,3 +8,4 @@ gem 'ruboty-issue_checker'
 gem "ruboty-redis"
 gem "ruboty-slack"
 gem "ruboty-slack_rtm"
+gem 'ruboty-ghtrend', git: 'https://github.com/kawakubox/ruboty-ghtrend.git'
